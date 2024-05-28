@@ -62,7 +62,7 @@ curl -X POST "http://3.109.158.37/api/v1/send/67890" \
 -H "Content-Type: application/json" \
 -d '{
   "text": "Hello, this is a test message.",
-  "senderId": "urn:li:fsd_profile:ACoAADFPm0wBD8_2w8dpux66aLduR0lOhqN2zKk"
+  "senderId": "ACoAADFPm0wBD8_2w8dpux66aLduR0lOhqN2zKk"
 }'
 ```
 
